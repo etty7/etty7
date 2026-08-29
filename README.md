@@ -1,18 +1,21 @@
-<div align="center">
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=160&section=header" width="100%"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=F72585&background=00000000&center=true&vCenter=true&width=650&separator=%7C&lines=Halo%2C+aku+Etty+%F0%9F%91%8B|Data+Whisperer+%7C+Aspiring+BI+%2F+Data+Analyst|Always+Curious%2C+Always+Learning" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=F72585&background=00000000&center=true&vCenter=true&width=500&lines=Halo%2C+aku+Etty+%F0%9F%91%8B;Data+Whisperer+%7C+Aspiring+BI+%2F+Data+Analyst;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
+</p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=etty7&label=Profile%20Views&color=F72585&style=flat" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/etty7?label=Followers&style=flat&color=7209B7" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-7209B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/etty-yulinar)
-[![Email](https://img.shields.io/badge/-EMAIL-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ettyyulinar398@gmail.com)
-[![Phone](https://img.shields.io/badge/-WHATSAPP-3A0CA3?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287752510640)
-
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/etty-yulinar"><img src="https://img.shields.io/badge/-LINKEDIN-7209B7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ettyyulinar398@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-F72585?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/6287752510640"><img src="https://img.shields.io/badge/-WHATSAPP-3A0CA3?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 ---
 
