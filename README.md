@@ -1,6 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=160&section=header" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=F72585&background=00000000&center=true&vCenter=true&width=650&separator=%7C&lines=Halo%2C+aku+Etty+%F0%9F%91%8B|Data+Whisperer+%7C+Aspiring+BI+%2F+Data+Analyst|Always+Curious%2C+Always+Learning" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=etty7&label=Profile%20Views&color=F72585&style=flat" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/etty7?label=Followers&style=flat&color=7209B7" />
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-7209B7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/etty-yulinar)
 [![Email](https://img.shields.io/badge/-EMAIL-F72585?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ettyyulinar398@gmail.com)
@@ -15,6 +21,12 @@
 Aspiring **Business Intelligence / Data Analyst** with ~3 years of combined experience across administrative and creative production roles. Most recently completed an **Animation Entrepreneurship Internship (2023–2025)**, contributing to workflow optimization, reporting, and performance improvements.
 
 Supported by hands-on training in **SQL, Python, and Looker Studio**, and **BNSP-certified as a Business Intelligence Analyst**, with a strong focus on data-driven decision-making, process improvement, and AI-assisted automation.
+
+<div align="center">
+
+> 💭 *"Setiap baris data punya cerita — tugasku adalah mendengarnya lebih dulu."*
+
+</div>
 
 ---
 
@@ -31,6 +43,20 @@ Supported by hands-on training in **SQL, Python, and Looker Studio**, and **BNSP
 - Python (pandas) for data cleaning & exploratory analysis
 - Dashboard design & KPI storytelling in Looker Studio
 - AI-assisted automation for data processing & reporting
+
+---
+
+### 📊 Skill Level Overview
+
+<div align="center">
+
+`Excel`         ![](https://progress-bar.xyz/85?title=&color=F72585&width=200)
+`Google Sheets` ![](https://progress-bar.xyz/85?title=&color=7209B7&width=200)
+`SQL`           ![](https://progress-bar.xyz/60?title=&color=3A0CA3&width=200)
+`Python`        ![](https://progress-bar.xyz/50?title=&color=4361EE&width=200)
+`Looker Studio` ![](https://progress-bar.xyz/60?title=&color=4CC9F0&width=200)
+
+</div>
 
 ---
 
@@ -85,10 +111,12 @@ Supported by hands-on training in **SQL, Python, and Looker Studio**, and **BNSP
 ### 📊 GitHub Stats (optional)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=etty7&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com?user=etty7&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=etty7&show_icons=true&theme=tokyonight&hide_border=false&border_color=F72585&border_radius=12&bg_color=0D1117" height="165"/>
+<img src="https://streak-stats.demolab.com?user=etty7&theme=tokyonight&hide_border=false&border=F72585&border_radius=12&background=0D1117&ring=7209B7&fire=F72585" height="165"/>
 </div>
 
 <div align="center">
 <sub>© 2026 Etty Yulinar</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:7209B7,100:F72585&height=120&section=footer" width="100%"/>
