@@ -108,12 +108,26 @@ Supported by hands-on training in **SQL, Python, and Looker Studio**, and **BNSP
 
 ---
 
-### 📊 GitHub Stats (optional)
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/etty7?label=Followers&style=for-the-badge&color=F72585&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/etty7&label=Public%20Repos&query=public_repos&style=for-the-badge&color=7209B7&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-3A0CA3?style=for-the-badge)
+
+</div>
+
+<!--
+Versi kartu statistik "lengkap" di bawah ini sengaja dimatikan sementara karena
+layanan gratisnya (Vercel) sedang tidak stabil. Begitu layanan itu pulih,
+hapus baris komentar pembuka dan penutup di sekitar blok ini untuk mengaktifkannya lagi.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=etty7&show_icons=true&theme=tokyonight&hide_border=false&border_color=F72585&border_radius=12&bg_color=0D1117" height="165"/>
 <img src="https://streak-stats.demolab.com?user=etty7&theme=tokyonight&hide_border=false&border=F72585&border_radius=12&background=0D1117&ring=7209B7&fire=F72585" height="165"/>
 </div>
+-->
 
 <div align="center">
 <sub>© 2026 Etty Yulinar</sub>
