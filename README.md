@@ -72,6 +72,16 @@ Supported by hands-on training in **SQL, Python, and Looker Studio**, and **BNSP
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/etty7/etty7/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> Animasi ini butuh 1x setup GitHub Actions (file `snake.yml`) di repo `etty7/etty7` supaya branch `output`-nya terbentuk. Kalau belum dipasang, gambar di atas tidak akan muncul.
+
+---
+
 ### 📊 GitHub Stats (optional)
 
 <div align="center">
